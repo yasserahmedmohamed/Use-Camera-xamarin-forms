@@ -1,5 +1,5 @@
 # Use-Camera-xamarin-forms
-Use Camera to take images and take videos and can use Calgary to pick up to 
+Use Camera to take images and take videos and can use gallery to pick up to 
 
 
 
