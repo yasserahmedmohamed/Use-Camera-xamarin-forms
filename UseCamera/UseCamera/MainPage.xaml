@@ -22,7 +22,7 @@
                 <Button Text="Pick A Video"    
                     x:Name="pickVideo"    
                     BackgroundColor="Green"    
-                   />
+                   /> 
                 <Image x:Name="image" HeightRequest="300" WidthRequest="300"/>
             </StackLayout>
         </ScrollView>
