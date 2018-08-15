@@ -5,7 +5,8 @@ Use Camera to take images and take videos and can use gallery to pick up to
 
 to not make errors 
 
-1- in AndroidManifest.xml ::::  put between <application>  here<aplication/>
+1- in AndroidManifest.xml ::::  put between 
+<application>  here <aplication/>
 
 that code 
 
